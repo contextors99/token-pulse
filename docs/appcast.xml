@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>TokenPulse</title>
+        <link>https://contextors99.github.io/token-pulse/appcast.xml</link>
+        <description>TokenPulse 자동 업데이트 피드</description>
+        <language>ko</language>
+    </channel>
+</rss>
