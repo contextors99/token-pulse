@@ -5,5 +5,13 @@
         <link>https://contextors99.github.io/token-pulse/appcast.xml</link>
         <description>TokenPulse 자동 업데이트 피드</description>
         <language>ko</language>
+        <item>
+            <title>Version 1.0.2</title>
+            <pubDate>일, 24  5월 2026 12:42:47 +0000</pubDate>
+            <sparkle:version>1.0.2</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/contextors99/token-pulse/releases/download/v1.0.2/TokenPulse-v1.0.2.dmg" length="3643724" type="application/octet-stream" sparkle:edSignature="QDbmhtxcTbdikwNTwLxhCNF/5zhGLUybZVIAKJYPHFRbLatp0MQgH+yw205ODemh0GWV+fJZpbgmPgziOOxmCQ=="/>
+        </item>
     </channel>
 </rss>
